@@ -1,0 +1,40 @@
+.title{
+  color: #9A9A9A;
+  font-size: 50px;
+  font-family: 'Quintessential', sans-serif;
+  text-align: center;
+  line-height: 0.8;
+}
+
+
+.body{
+  color: #9A9A9A;
+  font-size: 25px;
+  font-family: 'Quintessential', sans-serif;
+  line-height: 1;
+  text-align: center;
+}
+
+.text{
+  color: #9A9A9A;
+  font-size: 20px;
+  font-family: 'Quintessential', sans-serif;
+  line-height: 0.8;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+}
+
+.aligner{
+  text-align: center;
+  padding: 50px;
+}
+
+.imageL{
+  color: #bababa;
+  font-size: 75px;
+  font-family: 'Quintessential', sans-serif;
+  text-align: center;
